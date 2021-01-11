@@ -20,6 +20,3 @@ public class PasswordDriver
          JOptionPane.showMessageDialog(null, password + " is invalid");
    }
 }
-//working with github
-
-//I think it works this way
